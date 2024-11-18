@@ -1,2 +1,3 @@
 # Devops
-DevOps Final Project 
+DevOps Final Project
+its developed by team as learned of Depi 
